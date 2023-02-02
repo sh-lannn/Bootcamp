@@ -1,0 +1,2 @@
+ menambah text.txt
+ menambah baris di test.txt
